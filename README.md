@@ -33,3 +33,5 @@
 ## 📊 More informations:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VidaFreitas&hide_progress=true)
+
+![data](https://github.com/VidaFreitas/VidaFreitas/assets/76167218/4542a3f5-a8da-439e-be1b-72249876eb42)
